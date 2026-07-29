@@ -9,6 +9,7 @@ Users can answer the generated questions one by one and receive detailed feedbac
 The project also includes an ATS-style resume scoring feature that analyzes the parsed resume and provides a resume score. The backend is built using Python and Flask, with resume parsing supported by libraries such as PyPDF2 and python-docx.
 
  Key Highlights
+ 
  Upload and analyze resumes in multiple formats
  Extract candidate skills, experience, education, and projects
  Generate personalized interview questions based on resume content
@@ -19,10 +20,11 @@ The project also includes an ATS-style resume scoring feature that analyzes the 
  View category-wise interview performance
  Analyze resumes with an ATS-style scoring feature
  Simple web interface built with Flask and vanilla JavaScript
+ 
  Technology Stack
  Backend: Python, Flask
  Frontend: HTML, CSS, JavaScript
  Resume Processing: PyPDF2, python-docx
  Interview Engine: Template-based question generation
-Feedback System: Rule-based answer evaluation
-Session Management: Flask Sessions
+ Feedback System: Rule-based answer evaluation
+ Session Management: Flask Sessions
