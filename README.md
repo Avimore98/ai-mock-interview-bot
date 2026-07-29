@@ -10,15 +10,24 @@ The project also includes an ATS-style resume scoring feature that analyzes the 
 
  Key Highlights
  
- Upload and analyze resumes in multiple formats
- Extract candidate skills, experience, education, and projects
+ Upload and analyze resumes in multiple formats 
+ 
+ Extract candidate skills, experience, education, and projects 
+ 
  Generate personalized interview questions based on resume content
+ 
  Support job-role-specific interview preparation
+ 
  Practice technical and behavioral interview questions
+ 
  Evaluate answers and provide performance scores
+ 
  Get personalized feedback and improvement suggestions
+ 
  View category-wise interview performance
+ 
  Analyze resumes with an ATS-style scoring feature
+ 
  Simple web interface built with Flask and vanilla JavaScript
  
  Technology Stack
