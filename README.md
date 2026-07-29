@@ -22,9 +22,15 @@ The project also includes an ATS-style resume scoring feature that analyzes the 
  Simple web interface built with Flask and vanilla JavaScript
  
  Technology Stack
+ 
  Backend: Python, Flask
+ 
  Frontend: HTML, CSS, JavaScript
+ 
  Resume Processing: PyPDF2, python-docx
+ 
  Interview Engine: Template-based question generation
+ 
  Feedback System: Rule-based answer evaluation
+ 
  Session Management: Flask Sessions
